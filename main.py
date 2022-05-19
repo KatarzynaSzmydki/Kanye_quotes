@@ -7,7 +7,7 @@ import time
 
 MY_LAT = 52.767200 # Your latitude
 MY_LONG = 23.191839 # Your longitude
-TIME = 10
+TIME = 60
 
 #Your position is within +5 or -5 degrees of the ISS position.
 
