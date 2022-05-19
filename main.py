@@ -82,7 +82,6 @@ def check_iss():
 
 
 
-
 window = Tk()
 
 canvas = Canvas(width=200, height=224, highlightthickness=0)
